@@ -5,7 +5,7 @@ A clean, simple, and responsive portfolio website built with HTML5 and CSS3. Thi
 ## 🚀 Live Demo
 
 You can view the live project here:
-**[https://your-username.github.io/your-repo-name/]()**
+
 
 ## 💡 Project Purpose
 
