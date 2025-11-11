@@ -1,0 +1,120 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    
+  font-family: "Lato", sans-serif
+}
+
+.container{
+    margin: 50px; 
+}
+
+.introduction{
+    background-color: darkgrey;
+    color: black;
+    padding: 20px;
+}
+.introduction__name{
+   font-weight: 10px;
+   font-size: 48px;
+}
+.introduction__role{
+   
+}
+.introduction__quote{
+
+}
+.introduction__contact{
+   display: inline-block;
+   text-decoration: none;
+   background-color: rgb(183, 2, 2);
+   color: whitesmoke;
+   padding-left: 5px;
+   padding-right: 5px;
+   padding-bottom: 5px;
+   margin-top: 10px;
+}
+
+.section-one{
+   margin-top: 20px; 
+   background-color: lightsalmon;
+   display: inline-block;
+   padding: 20px;
+   border-radius: 10px;
+}
+.section-one__tittle{
+
+}
+.section-one__list {
+    margin: 5px;
+    text-decoration: none;
+}
+.section-one__list li{
+    list-style: none;
+}
+
+
+.section-two{
+   margin-top: 20px; 
+}
+.section-two__tittle{
+    
+}
+.section-two__description{
+   line-height: 1.5;
+}
+.section-two__photo{
+   background-color: black; 
+   display: inline-block;
+   padding: 5px;
+   margin: 10px; 
+   margin-left: 0px;
+   border-radius: 5px;
+   height: 400px;
+   vertical-align: top; 
+   flex-shrink: 0;
+}
+
+.section-three{
+   background-color: aquamarine;
+   color: black;
+   height: 370px;
+   display: inline-block;
+   padding: 20px;
+   border-radius: 10px;
+   flex: 1;
+   vertical-align: top;
+   margin: 10px;
+}
+.section-three__tittle{
+    
+}
+.section-three__description{
+    
+}
+.section-three__resume{
+    
+}
+
+.section-four{
+   margin-top: 20px; 
+   background-color: darkgrey;
+   color: black;
+   padding: 20px;
+}
+.section-four__tittle{
+    
+}
+
+.section-four__a1,.section-four__a2,.section-four__a3,.section-four__a4{
+   color: rgb(183, 2, 2); 
+}
+
+.container-main{
+    margin-top: 10px; 
+    display: flex;
+    align-items: flex-start;
+}
